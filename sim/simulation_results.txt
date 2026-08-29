@@ -1,0 +1,12 @@
+-Info: src/sim/cordic_tb.v:74: $dumpvar ignored, as Verilated without --trace
+angle_code=0 sel_sin=0 result=129 (signed=-127)
+angle_code=0 sel_sin=1 result=1 (signed=1)
+angle_code=128 sel_sin=0 result=90 (signed=90)
+angle_code=128 sel_sin=1 result=92 (signed=92)
+angle_code=255 sel_sin=0 result=1 (signed=1)
+angle_code=255 sel_sin=1 result=129 (signed=-127)
+All test cases completed.
+- src/sim/cordic_tb.v:69: Verilog $finish
+- S i m u l a t i o n   R e p o r t: Verilator 5.032 2025-01-01
+- Verilator: $finish at 1us; walltime 0.001 s; speed 572.146 us/s
+- Verilator: cpu 0.002 s on 1 threads; alloced 89 MB

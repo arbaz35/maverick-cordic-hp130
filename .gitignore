@@ -1,0 +1,4 @@
+obj_dir/
+*.vcd
+openroad_results/
+submission/

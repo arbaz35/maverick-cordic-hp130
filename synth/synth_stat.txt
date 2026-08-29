@@ -1,0 +1,65 @@
+
+17. Printing statistics.
+
+=== tt_um_cordic_sc ===
+
+        +----------------------------Count including submodules.
+        |        +-------------------Area including submodules.
+        |        |        +----------Local count, excluding submodules.
+        |        |        |        +-Local area, excluding submodules.
+        |        |        |        | 
+      617        -      617        - wires
+      652        -      652        - wire bits
+       45        -       45        - public wires
+       80        -       80        - public wire bits
+        8        -        8        - ports
+       43        -       43        - port bits
+        -        -        -        - memories
+        -        -        -        - memory bits
+        -        -        -        - processes
+      633   8470.3      633   8470.3 cells
+        9  114.307        9  114.307   sg13g2_a21o_1
+       45   408.24       45   408.24   sg13g2_a21oi_1
+        2    29.03        2    29.03   sg13g2_a21oi_2
+       11  159.667       11  159.667   sg13g2_a221oi_1
+       30  325.458       30  325.458   sg13g2_a22oi_1
+       14  127.008       14  127.008   sg13g2_and2_1
+        5   63.504        5   63.504   sg13g2_and3_1
+        2    29.03        2    29.03   sg13g2_and4_1
+       39  283.046       39  283.046   sg13g2_buf_1
+        4   181.44        4   181.44   sg13g2_buf_16
+       13  117.936       13  117.936   sg13g2_buf_2
+       23   333.85       23   333.85   sg13g2_buf_4
+        6  141.523        6  141.523   sg13g2_buf_8
+       37 1.81E+03       37 1.81E+03   sg13g2_dfrbpq_1
+       26  141.523       26  141.523   sg13g2_inv_1
+        2   14.515        2   14.515   sg13g2_inv_2
+        1   10.886        1   10.886   sg13g2_inv_4
+       31  562.464       31  562.464   sg13g2_mux2_1
+        4   79.834        4   79.834   sg13g2_mux2_2
+       13  495.331       13  495.331   sg13g2_mux4_1
+       44  319.334       44  319.334   sg13g2_nand2_1
+        9   81.648        9   81.648   sg13g2_nand2b_1
+        1   14.515        1   14.515   sg13g2_nand2b_2
+       30   272.16       30   272.16   sg13g2_nand3_1
+        5   63.504        5   63.504   sg13g2_nand3b_1
+       13  141.523       13  141.523   sg13g2_nand4_1
+       68  493.517       68  493.517   sg13g2_nor2_1
+        3   32.659        3   32.659   sg13g2_nor2_2
+       11   99.792       11   99.792   sg13g2_nor2b_1
+       14  127.008       14  127.008   sg13g2_nor3_1
+        3   48.989        3   48.989   sg13g2_nor3_2
+        6   65.318        6   65.318   sg13g2_nor4_1
+        6  130.637        6  130.637   sg13g2_nor4_2
+       56  508.032       56  508.032   sg13g2_o21ai_1
+        3   27.216        3   27.216   sg13g2_or2_1
+        6   76.205        6   76.205   sg13g2_or3_1
+        2    29.03        2    29.03   sg13g2_or4_1
+        1    7.258        1    7.258   sg13g2_tiehi
+        1    7.258        1    7.258   sg13g2_tielo
+       19  275.789       19  275.789   sg13g2_xnor2_1
+       15  217.728       15  217.728   sg13g2_xor2_1
+
+   Chip area for module '\tt_um_cordic_sc': 8470.299600
+     of which used for sequential elements: 1812.585600 (21.40%)
+
